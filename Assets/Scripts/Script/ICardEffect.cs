@@ -954,7 +954,8 @@ public enum EffectTiming
     RulesTiming,
     OnRemovedField,
     OnLinkCardDiscarded,
-    OnFaceUpSecurityIncreased
+    OnFaceUpSecurityIncreased,
+    OnLeaveFieldAnyone
 }
 
 #endregion
